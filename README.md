@@ -26,16 +26,16 @@ Development Tool: GUI Turbo Assembler 5.1
 Video Mode: VGA Mode 13h (320x200, 256 colors)
 Platform: DOS
 
-breakout/
-├── code.asm          # Main game source code
-├── dra2.inc          # Graphics macros library
-├── records.txt       # High scores database (auto-generated)
-├── Main_Menu.jpg
-├── Gameplay.jpg
-├── Game_Over.jpg
-└── Records.jpg
-└── README.md
+## Project Structure
 
+- `code.asm` - Main game source code
+- `dra2.inc` - Graphics macros library  
+- `records.txt` - High scores database (auto-generated)
+- `Main_Menu.jpg` - Screenshot: Main menu
+- `Gameplay.jpg` - Screenshot: Gameplay
+- `Game_Over.jpg` - Screenshot: Game over screen
+- `Records.jpg` - Screenshot: High scores
+- `README.md` - This file
 
 Features
 
@@ -73,9 +73,6 @@ Click Run > Run (or press Ctrl+F9) to execute the game
 
 Note: All compilation and execution is done directly within GUI Turbo Assembler 5.1. No additional DOS tools or emulators required.
 
-
-git clone https://github.com/yourusername/breakout-asm.git
-cd breakout-asm
 
 ### Prerequisites:
 
