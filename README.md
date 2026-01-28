@@ -1,21 +1,19 @@
 BREAKOUT
 Classic Breakout game implemented in x86 Assembly Language (16-bit).
 
-Main Menu
+## Screenshots
 
-Main_Menu.jpg
+### Main Menu
+![Main Menu](Main_Menu.jpg)
 
-Gameplay
+### Gameplay
+![Gameplay](Gameplay.jpg)
 
-Gameplay.jpg
+### Game Over Screen
+![Game Over](Game_Over.jpg)
 
-Game Over
-
-Game_Over.jpg
-
-Records
-
-Records.jpg
+### High Scores
+![Records](Records.jpg)
 
 Description
 A faithful recreation of the classic Breakout arcade game written entirely in Assembly Language. The game features a paddle, ball physics, destructible blocks, lives system, scoring, and persistent high score tracking.
